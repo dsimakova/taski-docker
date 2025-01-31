@@ -1,5 +1,5 @@
 # docker-compose.production.yml
-version: '3'
+# version: '3' на эту строку ругается, поэтому закоментила пока что
 
 volumes:
   pg_data_production:
